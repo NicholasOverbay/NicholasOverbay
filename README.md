@@ -1,10 +1,14 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Nicholas! <br/><a ">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻My Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Azure / Cloud Projects </b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)
+    
+- <b>Microsoft Sentinel Incident Investigation accordance with NIST 800-61
+  - (https://github.com/user-attachments/assets/3892781e-4828-4cb5-8b38-7270765223b4)
+</b>
+
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
