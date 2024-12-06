@@ -2,6 +2,8 @@
 
 <h2>👨‍💻My Projects:</h2>
 
+<h2>Azure Siem Projects:</h2>
+
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)
     
@@ -19,12 +21,21 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2>👨‍💻My Certifications:</h2>
+
+
+ - [(Google) Cybersecurity Professional](https://github.com/user-attachments/assets/8bf61d15-72d1-43d6-ac34-7d9fee35fb43)
+
+  
+ - [(Leveld) Cybersecurity Masterclass: SOC Analyst](https://github.com/user-attachments/assets/4e3ef1c0-b1da-4718-972b-6271f9fc6e58)
+   
+ - [(Infosec) Cyber Incident Response](https://github.com/user-attachments/assets/a5ca2c44-9ff3-4913-ba03-256cf923bd25)
+ 
+
+ - [(Google) Technical Support Fundamentals](https://github.com/user-attachments/assets/304e07fd-a860-4dbe-9b91-ec8b840c3204)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
