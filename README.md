@@ -11,7 +11,7 @@
 
 -  <b> Microsoft Sentinel Incident Investigation accordance with Nist 800-61 </b>
 
-   - [Incident Investigation](https://github.com/NicholasOverbay/Incident-Investigation)
+   -  [Incident Investigation](https://github.com/NicholasOverbay/Incident-Investigation)
 
   
 - <b>PowerShell</b>
