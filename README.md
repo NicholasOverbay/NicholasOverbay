@@ -4,22 +4,19 @@
 
 <h2>Azure Siem Projects:</h2>
 
-- <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)
+- <b>Azure / Cloud Projects
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)</b>
     
 - <b>Microsoft Sentinel Incident Investigation accordance with NIST 800-61 in PowerPoint
      - [Incident Investigation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNicholasOverbay%2FIncident-Investigation%2Frefs%2Fheads%2Fmain%2FMicrosoft%2520Sentinel%2520Incident%2520Investigation%2520Final%25202.pptx&wdOrigin=BROWSELINK)
 </b>
 
--  <b> Microsoft Sentinel Incident Investigation accordance with Nist 800-61 </b>
+-  <b>Microsoft Sentinel Incident Investigation accordance with Nist 800-61
 
    - [Incident Investigation](https://github.com/NicholasOverbay/Incident-Investigation)</b>
   
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ <h2>👨‍💻My Network Configuration Projects:</h2>
+  - (In Progress)
 
 
 <h2>👨‍💻My Certifications:</h2>
