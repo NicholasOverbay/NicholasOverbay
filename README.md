@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a ">Cybersecurity Professional</a>
+<h1>Hi, I'm Nicholas! <br/><a ">A Cybersecurity Professional</a>
 
 <h2>👨‍💻My Projects:</h2>
 
