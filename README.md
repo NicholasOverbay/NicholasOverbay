@@ -13,8 +13,7 @@
 
 -  <b> Microsoft Sentinel Incident Investigation accordance with Nist 800-61 </b>
 
-   -  [Incident Investigation](https://github.com/NicholasOverbay/Incident-Investigation)
-
+   - [Incident Investigation](https://github.com/NicholasOverbay/Incident-Investigation)</b>
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
