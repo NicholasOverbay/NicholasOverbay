@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)
     
-- <b>Microsoft Sentinel Incident Investigation accordance with NIST 800-61
+- <b>Microsoft Sentinel Incident Investigation accordance with NIST 800-61 in PowerPoint
   - (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FNicholasOverbay%2FIncident-Investigation%2Frefs%2Fheads%2Fmain%2FMicrosoft%2520Sentinel%2520Incident%2520Investigation%2520Final%25202.pptx&wdOrigin=BROWSELINK)
 </b>
 
