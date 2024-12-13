@@ -2,7 +2,7 @@
 
 <h2>👨‍💻My Projects:</h2>
 
-<h2>Azure Siem Projects:</h2>
+<h2>Azure SIEM Projects:</h2>
 
 - <b>Azure / Cloud Projects
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicholasOverbay/Azure-SOC)</b>
